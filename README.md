@@ -2,7 +2,7 @@
 
 **`Estudante em Desenvolvimento`**
 
-Me chamo Caio Carvalho Santos, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio na Escola Técnica da cidade de Cubatão, com o curso técnico em Admnistração. Atualmente, estou cursando Ciência da Computação na UNIP. Sou um apreciador da tecnologia e estou sempre buscando aprimorar meus conhecimentos. 
+Me chamo Caio Carvalho Santos, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio na Escola Técnica da cidade de Cubatão, onde me formei Técnico Administrativo e Contábil. Atualmente, estou cursando Ciência da Computação na UNIP. Sou um apreciador da tecnologia e estou sempre buscando aprimorar meus conhecimentos. 
 
 ---
 <img align="right" alt="" height="190px" src="./src/edgerunners.gif">
